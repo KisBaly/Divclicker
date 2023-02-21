@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#foresz
+{
+    text-align: center;
+    align-items: flex-end;
+    align-content:flex-end;
+
+}
+
+a
+{
+    text-decoration: none;
+}

@@ -1,0 +1,25 @@
+#jatekter div {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background-color: yellow;
+    color: Black;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: large;
+    border-radius: 50%;
+    
+}
+
+body
+{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: absolute;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
